@@ -4,6 +4,7 @@ git clone https://github.com/Junreturn1982/xedien.git
 git status
 git add *
 /* local */
+=> git config --global user.email "you@example.com"
 git commit -m"Add new file inial.txt"
 /* serialization -> github */
 git push
