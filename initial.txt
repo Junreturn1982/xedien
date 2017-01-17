@@ -1,9 +1,1 @@
-1. git scm
-git clone https://github.com/Junreturn1982/xedien.git 
-/* vao thu muc vua clone -> open git bash */
-git status
-git add *
-/* local */
-git commit -m"Add new file inial.txt"
-/* serialization -> github */
-git push
+me may git
